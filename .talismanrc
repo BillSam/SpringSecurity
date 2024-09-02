@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: src/main/resources/application.properties
+  checksum: 097942247c75017ec2ddaf204078d7bba4736da45bfefdc0234539c5b82765f5
+- filename: mvnw
+  checksum: 5ea54ac67a83a3113b2c18b63be2c7cd36d20a6a016b455f1a73f5722a9ed6d1
+version: ""
+
+fileignoreconfig:
+- filename: src/main/resources/application.properties
+  checksum: bf24b22a77344a1d4cb15b75aba81195153688510ab1c9ea3313f4481f109803
+- filename: src/main/java/com/irembo/auth_api/entities/User.java
+  checksum: d3cc639c16c754ba751bd7355736304ef050250e485e0e7c67fec81a1377abfb
+- filename: src/main/java/com/irembo/auth_api/services/JwtService.java
+  checksum: 1dab4d9fcfa731d1f91b98ae6e90b1917980b163a198b2d47a9e8ce13abad87c
+version: ""
+
