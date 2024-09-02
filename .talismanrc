@@ -14,3 +14,15 @@ fileignoreconfig:
   checksum: 1dab4d9fcfa731d1f91b98ae6e90b1917980b163a198b2d47a9e8ce13abad87c
 version: ""
 
+fileignoreconfig:
+- filename: src/main/java/com/irembo/auth_api/dtos/LoginUserDto.java
+  checksum: c6410e32dcf14e6fde96b60b8eb8009bbe1f87289a92cc0be80b66adba4e819e
+- filename: src/main/java/com/irembo/auth_api/dtos/RegisterUserDto.java
+  checksum: 9ba08eacb89881a417946a9793acbc1699ef7888b9474e04ed727fc1d9d04cee
+- filename: src/main/java/com/irembo/auth_api/services/AuthenticationService.java
+  checksum: ed8af0e4eef8a1577373d900abf59db1d957073fdf004af15e79aa9c3faf1a6d
+- filename: src/main/java/com/irembo/auth_api/config/JwtAuthenticationFilter.java
+  checksum: fb86fe19c20b2e2e3143623f382b8fc1e974924037beb56bb8db5a3ae2d13c6c
+version: ""
+
+
